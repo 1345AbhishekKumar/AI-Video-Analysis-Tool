@@ -1,0 +1,5 @@
+{
+  "name": "YouTube Video Analysis Tool",
+  "description": "An AI-powered tool to analyze YouTube videos for SEO, engagement, and virality potential. It provides actionable insights, suggests improvements for titles, descriptions, and thumbnails, and helps creators optimize their content strategy.",
+  "requestFramePermissions": []
+}
